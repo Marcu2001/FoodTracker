@@ -20,7 +20,7 @@ FoodTracker is an app for tracking the food you eat. You can add foods or select
 - [ ] scenariu de utilizare a claselor definite:
   - preferabil sub formă de teste unitare, mai ales dacă vorbim de aplicații consolă 
   - crearea de obiecte și apelarea tuturor funcțiilor membru publice în main
-  vor fi adăugate în fișierul `tastatura.txt` DOAR exemple de date de intrare de la tastatură (dacă există); dacă aveți nevoie de date din fișiere, creați alte fișiere separat
+  - vor fi adăugate în fișierul `tastatura.txt` DOAR exemple de date de intrare de la tastatură (dacă există); dacă aveți nevoie de date din fișiere, creați alte fișiere separat
 - [x] tag de `git`: de exemplu `v0.1`
 - [x] serviciu de integrare continuă (CI); exemplu: GitHub Actions
 
